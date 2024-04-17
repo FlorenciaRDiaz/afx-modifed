@@ -1,2 +1,4 @@
 # afx-modifed
-Reporitorio de prueba para aprender a vicnular VSC con GitHub y trabajar en el rediseño de libreria especifica. 
+Repositorio de prueba para aprender a vincular VSC con GitHub y trabajar en el rediseño de libreria especifica. 
+
+##Primer objetivo entender github y abrir sesion con VSC pa que ande
